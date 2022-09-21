@@ -1,14 +1,4 @@
-﻿/********************************************************************************
- *	文件名：	ResourceLoader.cs
- *	全路径：	\Script\GameLogic\GameManager\ResourceLoader.cs
- *	创建人：	李嘉
- *	创建时间：2014-01-20
- *
- *	功能说明：游戏的资源加载器，各种资源加载接口都在此
- *	         包括同步和异步加载等
- *	         并附加资源加载统计
- *	修改记录：
-*********************************************************************************/
+﻿
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;

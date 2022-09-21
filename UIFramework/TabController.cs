@@ -1,11 +1,4 @@
-﻿/********************************************************************
-	created:	2014/01/14
-	created:	14:1:2014   13:43
-	filename: 	TabController.cs
-	author:		王迪
-	
-	purpose:	Tab页控制器，结构为Tab页控制器--Grid字节点--Tab字项
-*********************************************************************/
+﻿
 using UnityEngine;
 using System.Collections;
 using Module.Log;
